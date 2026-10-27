@@ -1,0 +1,8 @@
+{
+  "checked_at": "2026-10-27T11:30:40.739262+00:00",
+  "upstream": "firstcontributions/first-contributions",
+  "upstream_branch": "main",
+  "upstream_commit": "d6d684abe9b512f09da35785cf6a74458333c945",
+  "version": 1,
+  "workflow_policy": "preserve fork workflows; never import upstream workflows"
+}
